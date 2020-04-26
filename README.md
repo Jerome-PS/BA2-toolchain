@@ -6,6 +6,8 @@
 * autoconf (`sudo apt install autoconf`)
 * libpython3 (`sudo apt install libpython3-dev`)
 * libftdi (`sudo apt install libftdi-dev`)
+* lex  (`sudo apt install flex`)
+* yacc  (`sudo apt install bison`)
 
 ## Build
 
